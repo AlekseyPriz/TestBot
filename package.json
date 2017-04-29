@@ -1,0 +1,15 @@
+{
+  "name": "testbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleksey Priz",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^2.0.0",
+    "vk-io": "^3.1.3"
+  }
+}
